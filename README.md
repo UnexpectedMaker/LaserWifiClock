@@ -1,4 +1,4 @@
-# LaserWifiClock
+# Mod-able Laser Wifi Clock
 Design files and code for my open source Mod-able RGB Laser Wifi Clock that I sell on tindie:
 https://www.tindie.com/products/15501/
 
@@ -7,12 +7,11 @@ https://www.tindie.com/products/15501/
 
 It's custom hardware and custom code but all open source so if you want the challenge of making one yourself or you want to hack the code, go for it!
 
-I have a live stream build of the board here if you want to see what's involved
+I have a live stream build of the board here if you want to see what's involved:
 https://www.youtube.com/watch?v=2W7_SHC2Mis
 
 
 # Design Files
-
 Inlcluded in this reposity:
 - EagleCAD schematics and Board layout files (Eagle 9.2) 
 - Exported Gerber files (Gerber 274X)
@@ -29,10 +28,14 @@ Once installed you'll need to select the *LOLIN(WEMOS) D1 R2 & Mini* as the boar
 
 Plus the following libraries from Library Manager
 - One Button
+- TimeLib
+- WifiManager (tzapu)
+- ArduinoJson
+
    
 Enjoy!
 
-# Buy me a coffee or back me on Patreon?
+# Back me on Patreon?
 I love making and designing projects but sharing open source projects takes a lot of thought and time. I do it because I think it’s important to share knowledge and give back to the community like many have done before me.
 
 If you find this project useful or want to see more open source projects like it, please consider backing me on Patreon to say thanks!
