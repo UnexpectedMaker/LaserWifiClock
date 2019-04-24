@@ -18,6 +18,11 @@ Inlcluded in this reposity:
 - STL & DXF files for the 3D printed case and laser cut pieces
 - Adrduino code
 
+# Assembling the case
+Here is a video guide to assembling the case
+
+https://youtu.be/fARj-D6XGP0
+
 # Hacking the code
 You will need to have the ESP8266 board for Arduino IDE installed. If you don't, you can follow the instructions here:
 https://arduino-esp8266.readthedocs.io/en/2.5.0-beta2/installing.html
@@ -32,7 +37,6 @@ Plus the following libraries from Library Manager
 - WifiManager (tzapu)
 - ArduinoJson
 
-   
 Enjoy!
 
 # Back me on Patreon?
